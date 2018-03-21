@@ -1,0 +1,15 @@
+{
+  "name": "demo-require-library-add-whole-icon-pack",
+  "version": "0.0.1",
+  "description": "demomonstrate requiring an entire icon set and adding it to the icon library",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mike Wilkerson <mwilkerson@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.0-7",
+    "@fortawesome/free-solid-svg-icons": "^5.1.0-4"
+  }
+}
